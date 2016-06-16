@@ -1,7 +1,7 @@
-puts "Enter your name:"
+print "Enter your name:"
 yourname = gets
 puts "Hello " + yourname
 
-puts "Enter your age:"
+print "Enter your age:"
 yourage = gets
 puts "your age is " + yourage
