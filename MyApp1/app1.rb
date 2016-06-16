@@ -1,8 +1,9 @@
+salary = 2000
 puts "Salary"
-puts 2000
+puts salary
 
 puts "Tax"
 puts 0.40
 
 puts "Final"
-puts 2000 - 2000 * 0.40
+puts salary - salary * 0.40
