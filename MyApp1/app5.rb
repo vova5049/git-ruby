@@ -1,7 +1,5 @@
 print "Enter your name:"
-yourname = gets
-puts "Hello " + yourname
-
+yourname = gets.chomp
 print "Enter your age:"
-yourage = gets
-puts "your age is " + yourage
+yourage = gets.chomp
+puts "Hello " + yourname + " your age is " + yourage + " !!!"
