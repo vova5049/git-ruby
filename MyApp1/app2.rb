@@ -1,2 +1,2 @@
-puts 8
-puts 6
+a = gets.chomp
+puts a+a
