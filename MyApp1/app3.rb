@@ -3,5 +3,4 @@ U = gets.to_f
 print "Enter resistance: "
 R = gets.to_f
 I = U / R
-print "Result: "
-puts I
+puts "Result: " + I.to_s
